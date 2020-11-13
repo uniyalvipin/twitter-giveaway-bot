@@ -1,10 +1,12 @@
 # Twitter Giveaways Hunt
 
 # Requirements
-python 3.x
-python-twitter library
-twitter api credentials(get twitter deveoper account and request access for its API)
-internet connection
+<ul>
+<li>python 3.x</li>
+<li>python-twitter library</li>
+<li>twitter api credentials(get twitter deveoper account and request access for its API)</li>
+<li>internet connection</li>
+</ul>
 
 # Procedure
 Enter your credentials in config.py
